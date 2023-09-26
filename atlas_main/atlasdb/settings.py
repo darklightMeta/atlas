@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'django_extensions', # for shell_plus
+
+    'core', # application for the core functionality of the site
 ]
 
 MIDDLEWARE = [
